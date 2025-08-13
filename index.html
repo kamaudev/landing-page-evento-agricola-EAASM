@@ -173,7 +173,7 @@
           <h3>Preencha o formulário para se inscrever</h3>
           <form action="" method="post">
             <label for="nome"
-              >Nome:
+              >Nome:  </label>
               <input
                 type="text"
                 id="nome"
@@ -182,7 +182,8 @@
                 autocomplete="name"
                 required
               />
-            </label>
+          
+            <br>
             <label for="email">E-mail:</label>
             <input
               type="email"
@@ -192,14 +193,14 @@
               autocomplete="email"
               required
             />
-
+<br>
             <label for="exposição">Deseja expor seus produtos? </label>
             <label for="sim">Sim</label>
             <input type="radio" id="sim" name="exposição" value="sim" />
 
             <label for="nao">Não</label>
             <input type="radio" id="nao" name="exposição" value="nao" />
-
+<br>
             <label for="duvida">Deixe sua dúvida ou comentário </label>
             <textarea
               name="duvida"
@@ -207,7 +208,7 @@
               placeholder="Envie suas dúvidas ou comentários"
               required
             ></textarea>
-
+<br>
             <button type="submit">Envie seus dados</button>
             <button type="reset">Limpe o formulário</button>
           </form>
