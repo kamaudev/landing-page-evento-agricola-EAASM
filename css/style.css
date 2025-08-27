@@ -229,3 +229,90 @@ tr:nth-child(even) {
 tr:hover {
     background-color: #DDE5EC;
 }
+#inscricao {
+    width: 95%;
+    margin: 2% auto 5% 2.5%;
+    text-align: center;
+}
+.titulo-instrucoes {
+    color: #30503A;
+    font-size: 1.6rem;
+    font-weight: 600;
+    width: 80%;
+    padding: 2% 1% 2% 1%;
+    text-align: center;
+    margin-left: 10%;
+}
+iframe {
+    width: 85%;
+    height: 65vh;
+    border-radius: 12px;
+}
+.lista-regras {
+    width: 95%;
+    height: 80vh;
+    background-color: #dde5ec;
+    margin: 2% auto 5% 2.5%;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}
+.titulo-regras {
+     color: #30503A;
+    font-size: 1.6rem;
+    font-weight: 600;
+    width: 80%;
+    padding: 2% 1% 2% 1%;
+    text-align: left;
+    margin-left: 5%;
+}
+.paragrafo-regras {
+    width: 80%;
+ color: #374151;
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-left: 6%;   
+    text-align: left;
+}
+.li-regras {
+        width: 80%;
+ color: #374151;
+    font-size: 1.2rem;
+    font-weight: 500;  
+    text-align: left;
+    list-style: decimal;
+    display: list-item;
+    margin-left: 8%;
+}
+.formulario-inscricao {
+  width: 95%;
+    height: 60vh;
+    background-color: #dde5ec;
+    margin: 2% auto 5% 2.5%;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}
+.titulo-formulario {
+   color: #30503A;
+    font-size: 1.6rem;
+    font-weight: 600;
+    width: 80%;
+    padding: 2% 1% 2% 1%;
+    text-align: left;
+    margin-left: 5%;   
+}
+label {
+    font-weight: 600;
+  color: #30503A;
+  display: inline-block;
+  font-size: 1.4rem;
+  margin-bottom: 1%;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: .5rem;
+  border: 2px solid #E5E7Eb;
+  border-radius: 6px;
+  font-size: 1.4rem;
+  transition: all 0.3s ease;
+  width: 40%;
