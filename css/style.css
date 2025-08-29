@@ -440,3 +440,18 @@ footer {
     margin-right: 1%;
 
 }
+/*Pequenos aparelhos*/
+@media screen and (min-width: 600px) {
+    /* Estilos para pequenos aparelhos */
+}
+
+/*Médios aparelhos*/
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Estilos para médios aparelhos */
+}
+
+
+/*Grandes aparelhos*/
+@media screen and (min-width: 1025px) {
+    /* Estilos para grandes aparelhos */
+}
