@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
 }
+body {
+    background-color: #dddada;
+}
 
 header {
     display: flex;
@@ -259,8 +262,8 @@ tr:hover {
 }
 
 iframe {
-    width: 85%;
-    height: 65vh;
+    width: 95%;
+    height: 75vh;
     border-radius: 12px;
 }
 
@@ -402,4 +405,22 @@ button[type="reset"]:hover {
 }
 footer{
     background-color: #C5E99B;
+    height: 40vh;
+}
+.paragrafo-footer {
+    color: #30503A;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin: .5% 2%;
+    padding-top: 2%;
+    text-align: center;
+}
+.nav-redes-sociais {
+ margin-left: 45%;
+}
+.img-footer {
+    width: 5%;
+    height: auto;
+    margin-right: 1%;
+
 }
