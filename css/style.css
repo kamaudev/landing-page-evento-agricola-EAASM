@@ -440,86 +440,115 @@ footer {
     margin-right: 1%;
 
 }
+
 /*Estilos para pequenos aparelhos*/
 @media screen and (max-width: 600px) {
-    h1{
+    h1 {
         font-size: 2.3rem;
     }
-    .texto-header{
+
+    .texto-header {
         margin-right: 6%;
         font-size: 1.2rem;
     }
+
     li {
         font-size: .9rem;
         margin-right: 1.8vw;
     }
+
     .nav-link:hover {
         font-size: 1rem;
     }
+
     h2 {
         font-size: 1.6rem;
     }
+
     .descricao {
         font-size: 1.2rem;
         max-width: 85%;
     }
+
     #detalhes-evento {
         height: 40vh;
     }
+
     .detalhes-evento {
         height: 25vh;
     }
-    .detalhe-data, .detalhe-local, .detalhe-horario {
+
+    .detalhe-data,
+    .detalhe-local,
+    .detalhe-horario {
         font-size: 1.2rem;
     }
+
     h3 {
         font-size: 1.4rem;
         margin-bottom: .5%;
     }
+
     .container-atracoes {
         grid-template-columns: 1fr;
     }
+
     .detalhe-atracao-oficina,
-.detalhe-atracao-feira,
-.detalhe-atracao-roda,
-.detalhe-atracao-comida,
-.detalhe-atracao-apresentacao {
-    font-size: 1.2rem;
-    margin: 1% 0;
-}
-td {
-    font-size: 1rem;
-}
-#tabela-programacao {
-    height: 55vh;
-}
-.head-tabela {
-    font-size: 1.4rem;
-}
-.lista-regras {
-    height: 90vh;
-}
-.titulo-regras, .titulo-instrucoes, .titulo-formulario {
-    font-size: 1.4rem;
-}
-.paragrafo-regras, label {
-    font-size: 1.2rem;
-}
-.li-regras, button {
-    font-size: 1rem;
-}
-.formulario-inscricao {
-    height: 75vh;
-}
-footer {
-    height: 30vh;
-}
-.paragrafo-footer {
-    font-size: 1.2rem;
-}
-.img-footer {
-    width: 10%;
-}
+    .detalhe-atracao-feira,
+    .detalhe-atracao-roda,
+    .detalhe-atracao-comida,
+    .detalhe-atracao-apresentacao {
+        font-size: 1.2rem;
+        margin: 1% 0;
+    }
+
+    td {
+        font-size: 1rem;
+    }
+
+    #tabela-programacao {
+        height: 55vh;
+    }
+
+    .head-tabela {
+        font-size: 1.4rem;
+    }
+
+    .lista-regras {
+        height: 90vh;
+    }
+
+    .titulo-regras,
+    .titulo-instrucoes,
+    .titulo-formulario {
+        font-size: 1.4rem;
+    }
+
+    .paragrafo-regras,
+    label {
+        font-size: 1.2rem;
+    }
+
+    .li-regras,
+    button {
+        font-size: 1rem;
+    }
+
+    .formulario-inscricao {
+        height: 75vh;
+    }
+
+    footer {
+        height: 30vh;
+    }
+
+    .paragrafo-footer {
+        font-size: 1.2rem;
+    }
+
+    .img-footer {
+        width: 10%;
+    }
 }
 
 /*Médios aparelhos*/
