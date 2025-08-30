@@ -440,52 +440,56 @@ footer {
     margin-right: 1%;
 
 }
-
 /*Estilos para pequenos aparelhos*/
 @media screen and (max-width: 600px) {
+   header {
+    height: 10vh;
+   }
     h1 {
-        font-size: 2.3rem;
+        font-size: 1.8rem;
     }
-
     .texto-header {
-        margin-right: 6%;
-        font-size: 1.2rem;
+        display: none;
     }
-
+.logo-header {
+    width: 14%;
+    margin-left: .5vw;
+    margin-right: .5vw;
+}
     li {
         font-size: .9rem;
-        margin-right: 1.8vw;
+        margin-right: 1.5vw;
     }
 
     .nav-link:hover {
-        font-size: 1rem;
+        font-size: .95rem;
     }
 
     h2 {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
     }
 
     .descricao {
-        font-size: 1.2rem;
-        max-width: 85%;
+        font-size: 1.1rem;
+        max-width: 90%;
     }
 
     #detalhes-evento {
-        height: 40vh;
+        height: 30vh;
     }
 
     .detalhes-evento {
-        height: 25vh;
+        height: 20vh;
     }
 
     .detalhe-data,
     .detalhe-local,
     .detalhe-horario {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     h3 {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
         margin-bottom: .5%;
     }
 
@@ -498,12 +502,12 @@ footer {
     .detalhe-atracao-roda,
     .detalhe-atracao-comida,
     .detalhe-atracao-apresentacao {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         margin: 1% 0;
     }
 
     td {
-        font-size: 1rem;
+        font-size: .9rem;
     }
 
     #tabela-programacao {
@@ -511,22 +515,22 @@ footer {
     }
 
     .head-tabela {
-        font-size: 1.4rem;
+        font-size: 1.1rem;
     }
 
     .lista-regras {
-        height: 90vh;
+        height: 105vh;
     }
 
     .titulo-regras,
     .titulo-instrucoes,
     .titulo-formulario {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }
 
     .paragrafo-regras,
     label {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .li-regras,
@@ -535,7 +539,7 @@ footer {
     }
 
     .formulario-inscricao {
-        height: 75vh;
+        height: 70vh;
     }
 
     footer {
@@ -543,11 +547,13 @@ footer {
     }
 
     .paragrafo-footer {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
-
+.nav-redes-sociais {
+    margin-left: 35%;
+}
     .img-footer {
-        width: 10%;
+        width: 14%;
     }
 }
 
