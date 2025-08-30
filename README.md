@@ -1,50 +1,64 @@
-Desafio prático personalizado criado pelo ChatGPT para consolidar tudo que aprendi, como foco total em HTNL puro.
+<h1>Landing Page Evento Agrícola - EAASM 🌱</h1>
 
-🎯 Objetivo:
-Criar uma página HTML completa que simule a divulgação de um evento, como uma palestra, feira, workshop ou festival. Use apenas HTML (sem CSS ou JavaScript) e aplique o máximo de conceitos que você aprendeu.
+<h2>Sobre o Projeto:</h2>
+<br>
+<p>Este projeto é uma landing page desenvolvida como parte de um desafio prático personalizado criado pelo ChatGPT, com o objetivo de consolidar meus aprendizados em HTML puro.</p>
+<p>Posteriormente, adicionei CSS para trabalhar também a parte visual. O design é original, feito por mim, mas o foco principal está no código e na estrutura semântica.</p>
 
-🧩 Requisitos obrigatórios:
-Estrutura HTML Completa
+<h2>Objetivo:</h2>
 
-<!DOCTYPE html>, <html>, <head>, <body>
+<p>Criar uma página HTML completa que simule a divulgação de um evento (palestra, feira, workshop ou festival), utilizando inicialmente apenas HTML, aplicando o máximo de conceitos aprendidos.</p>
 
-Cabeçalho do site
+<h2>Requisitos do desafio:</h2>
+<ul>
+<li>Estrutura HTML completa</li>
+<li>Cabeçalho com título e descrição</li>
+<li>Seções de detalhes, atrações e programação</li>
+<li>Tabela de atividades</li>
+<li>Imagem e vídeo/mapa incorporado</li>
+<li>Formulário de inscrição com campos obrigatórios</li>
+<li>Links externos</li>
+</ul>
 
-Nome do evento em uma tag de título apropriada (<h1>)
+<h2>Extras implementados</h2>
+<ul>
+<li>Lista para regras/informações</li>
+<li>Uso de <header>, <footer> e <nav> para treinar HTML semântico</li>
+<li>Estilização com CSS próprio (após a versão inicial em HTML puro)</li>
+</ul>
 
-Uma breve descrição usando parágrafos
+<h2> Preview</h2>
+<img src = "./ativos/Galaxy-S21-Ultra-127.0.0.1.png">
+<img src = "./ativos/Macbook-Air-127.0.0.1 (2).png">
+<video src = "./ativos/Video-Demonstração-Desktop.webm"></video>
 
-Seções com <section> e <article>
+🚀 Tecnologias utilizadas
 
-Uma seção com os detalhes do evento (data, local, horário)
+HTML5
 
-Uma seção com os destaques ou atrações do evento (use <article> para cada atração)
+CSS3
 
-Tabela de programação
+📂 Estrutura do projeto
+📁 landing-page-evento-agricola-EAASM
+├── index.html   # Estrutura HTML principal
+├── style.css    # Estilos da página
+└── assets/      # Imagens e mídias utilizadas
 
-Use <table> com dias e horários de atividades
+📌 Aprendizados
 
-Imagens
+Prática de HTML semântico
 
-Uma imagem representativa do evento
+Criação de layouts organizados usando apenas HTML
 
-Vídeo do YouTube ou mapa do local
+Estruturação de tabelas e formulários
 
-Use <iframe> para incorporar um vídeo ou o mapa do local do evento
+Primeiros passos em design responsivo com CSS
 
-Formulário de inscrição
+🔗 Acesso
 
-Campos: Nome, E-mail, Gênero (com radio), Comentário (usando <textarea>)
+Você pode acessar o projeto aqui:
+👉 Landing Page EAASM - GitHub Pages
 
-Botão de envio
+📜 Licença
 
-Use <label> de forma acessível
-
-Links
-
-Link externo para a página oficial do evento (abrindo em nova aba)
-
-💡 Extra (opcional):
-Use <ul> ou <ol> para listar regras ou informações úteis
-
-Use <header>, <footer>, <nav> se quiser treinar HTML semântico
+Este projeto está sob a licença MIT.
