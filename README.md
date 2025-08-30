@@ -43,7 +43,7 @@
 📁 landing-page-evento-agricola-EAASM <br>
 ├── index.html   # Estrutura HTML principal<br>
 ├── css/<br>
-   ├── style.css  # Estilos da página <br>
+    ├── style.css  # Estilos da página <br>
 └── assets/      # Imagens e mídias utilizadas <br>
 
 <h2>Aprendizados:</h2>
