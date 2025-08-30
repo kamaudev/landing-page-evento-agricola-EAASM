@@ -636,17 +636,21 @@ footer {
 
 /*Grandes aparelhos*/
 @media screen and (min-width: 1025px) and (max-width: 1380px) {
+
     /* Estilos para grandes aparelhos */
     .logo-header {
         width: 10%;
         margin-left: .4vw;
     }
-    li{
+
+    li {
         margin-right: 2vw;
     }
+
     .texto-header {
         margin-right: 25vw;
     }
+
     .lista-regras {
         height: 90vh;
     }
