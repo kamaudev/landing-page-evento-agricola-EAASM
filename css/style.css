@@ -55,7 +55,7 @@ li {
 }
 
 #hero {
-    background-image: url('./ativos/img-principal.jpg');
+    background-image: url('../ativos/img-principal.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
