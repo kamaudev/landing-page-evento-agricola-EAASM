@@ -20,45 +20,40 @@
 <li>Links externos</li>
 </ul>
 
-<h2>Extras implementados</h2>
+<h2>Extras implementados:</h2>
 <ul>
 <li>Lista para regras/informações</li>
 <li>Uso de <header>, <footer> e <nav> para treinar HTML semântico</li>
 <li>Estilização com CSS próprio (após a versão inicial em HTML puro)</li>
 </ul>
 
-<h2> Preview</h2>
+<h2> Preview:</h2>
 <img src = "./ativos/Galaxy-S21-Ultra-127.0.0.1.png">
 <img src = "./ativos/Macbook-Air-127.0.0.1 (2).png">
-<video src = "./ativos/Video-Demonstração-Desktop.webm"></video>
 
-🚀 Tecnologias utilizadas
+<h2>Tecnologias utilizada:</h2>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-HTML5
-
-CSS3
-
-📂 Estrutura do projeto
+<h2>Estrutura do projeto:</h2>
 📁 landing-page-evento-agricola-EAASM
 ├── index.html   # Estrutura HTML principal
-├── style.css    # Estilos da página
+├── css/
+   ├── style.css  # Estilos da página
 └── assets/      # Imagens e mídias utilizadas
 
-📌 Aprendizados
+<h2>Aprendizados:</h2>
+<ul>
+<li>Prática de HTML semântico</li>
+<li>Criação de layouts organizados usando apenas HTML</li>
+<li>Estruturação de tabelas e formulários</li>
+<li>Primeiros passos em design responsivo com CSS</li>
+</ul>
 
-Prática de HTML semântico
+<h2>Acesso</h2>
 
-Criação de layouts organizados usando apenas HTML
-
-Estruturação de tabelas e formulários
-
-Primeiros passos em design responsivo com CSS
-
-🔗 Acesso
-
-Você pode acessar o projeto aqui:
-👉 Landing Page EAASM - GitHub Pages
-
-📜 Licença
-
-Este projeto está sob a licença MIT.
+<p>Você pode acessar o projeto aqui:</p>
+<a href="https://kamaudev.github.io/landing-page-evento-agricola-EAASM/" target="_blanck">Landing Page EAASM - GitHub Pages</a>
