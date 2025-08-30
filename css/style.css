@@ -440,22 +440,27 @@ footer {
     margin-right: 1%;
 
 }
+
 /*Estilos para pequenos aparelhos*/
 @media screen and (max-width: 600px) {
-   header {
-    height: 10vh;
-   }
+    header {
+        height: 10vh;
+    }
+
     h1 {
         font-size: 1.8rem;
     }
+
     .texto-header {
         display: none;
     }
-.logo-header {
-    width: 14%;
-    margin-left: .5vw;
-    margin-right: .5vw;
-}
+
+    .logo-header {
+        width: 14%;
+        margin-left: .5vw;
+        margin-right: .5vw;
+    }
+
     li {
         font-size: .9rem;
         margin-right: 1.5vw;
@@ -549,9 +554,11 @@ footer {
     .paragrafo-footer {
         font-size: 1.1rem;
     }
-.nav-redes-sociais {
-    margin-left: 35%;
-}
+
+    .nav-redes-sociais {
+        margin-left: 35%;
+    }
+
     .img-footer {
         width: 14%;
     }
