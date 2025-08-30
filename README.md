@@ -32,12 +32,13 @@
 <img src = "./ativos/Macbook-Air-127.0.0.1 (2).png">
 
 <h2>Tecnologias utilizada:</h2>
+<p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
+</p>
 <h2>Estrutura do projeto:</h2>
 📁 landing-page-evento-agricola-EAASM
 ├── index.html   # Estrutura HTML principal
