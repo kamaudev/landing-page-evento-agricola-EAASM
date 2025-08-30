@@ -40,11 +40,11 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
 <h2>Estrutura do projeto:</h2>
-📁 landing-page-evento-agricola-EAASM
-├── index.html   # Estrutura HTML principal
-├── css/
-   ├── style.css  # Estilos da página
-└── assets/      # Imagens e mídias utilizadas
+📁 landing-page-evento-agricola-EAASM <br>
+├── index.html   # Estrutura HTML principal<br>
+├── css/<br>
+   ├── style.css  # Estilos da página <br>
+└── assets/      # Imagens e mídias utilizadas <br>
 
 <h2>Aprendizados:</h2>
 <ul>
